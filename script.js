@@ -8,5 +8,7 @@ const projects = document.querySelectorAll(".project-card");
 projects.forEach((project) => {
     project.addEventListener("click", () => {
         console.log("Projekt angeklickt:", project.querySelector("h3").textContent);
+        $('#btn_click').on('click', function() { window.location = 'http://www.google.com';
+
     });
 });
