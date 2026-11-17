@@ -2,7 +2,7 @@
 document.querySelector("#navigation").innerHTML = `
     <nav>
         <a href="index.html" class="logo">
-            <img src="../photos/LogoWeiss.png" alt="Logo">
+            <img src="photos/LogoWeiss.png" alt="Logo">
         </a>
 
         <button class="menu-toggle" id="menuToggle">
@@ -13,10 +13,10 @@ document.querySelector("#navigation").innerHTML = `
         <div class="menu-overlay" id="menuOverlay">
 
             <div class="menu-content">
-                <a href="../index.html">HOME</a>
-                <a href="../aboutme.html">ABOUT ME</a>
-                <a href="../news.html">NEWS</a>
-                <a href="../contact.html">CONTACT</a>
+                <a href="index.html">HOME</a>
+                <a href="aboutme.html">ABOUT ME</a>
+                <a href="news.html">NEWS</a>
+                <a href="contact.html">CONTACT</a>
             </div>
         </div>
 
