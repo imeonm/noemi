@@ -2,7 +2,7 @@
 document.querySelector("#navigation").innerHTML = `
     <nav>
         <a href="index.html" class="logo">
-            <img src="noemi/photos/LogoWeiss.png" alt="Logo">
+            <img src="/noemi/photos/LogoWeiss.png" alt="Logo">
         </a>
 
         <button class="menu-toggle" id="menuToggle">
