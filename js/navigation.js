@@ -13,10 +13,10 @@ document.querySelector("#navigation").innerHTML = `
         <div class="menu-overlay" id="menuOverlay">
 
             <div class="menu-content">
-                <a href="../mainpages/index.html">HOME</a>
-                <a href="../mainpages/aboutme.html">ABOUT ME</a>
-                <a href="../mainpages/news.html">NEWS</a>
-                <a href="../mainpages/contact.html">CONTACT</a>
+                <a href="../index.html">HOME</a>
+                <a href="../aboutme.html">ABOUT ME</a>
+                <a href="../news.html">NEWS</a>
+                <a href="../contact.html">CONTACT</a>
             </div>
         </div>
 
